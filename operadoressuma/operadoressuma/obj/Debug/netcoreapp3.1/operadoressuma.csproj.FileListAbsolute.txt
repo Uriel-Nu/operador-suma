@@ -1,0 +1,16 @@
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\bin\Debug\netcoreapp3.1\operadoressuma.exe
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\bin\Debug\netcoreapp3.1\operadoressuma.deps.json
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\bin\Debug\netcoreapp3.1\operadoressuma.runtimeconfig.json
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\bin\Debug\netcoreapp3.1\operadoressuma.runtimeconfig.dev.json
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\bin\Debug\netcoreapp3.1\operadoressuma.dll
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\bin\Debug\netcoreapp3.1\operadoressuma.pdb
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.csproj.AssemblyReference.cache
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.suma.resources
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.csproj.GenerateResource.cache
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.AssemblyInfoInputs.cache
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.AssemblyInfo.cs
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.dll
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.pdb
+C:\Users\Pablo Ocaño\source\repos\operadoressuma\operadoressuma\obj\Debug\netcoreapp3.1\operadoressuma.genruntimeconfig.cache
